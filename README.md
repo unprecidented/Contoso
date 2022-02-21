@@ -1,2 +1,1 @@
 # Contoso
-SDM exam purpose 
